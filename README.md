@@ -1,4 +1,4 @@
 tiles
 =====
 
-An attempt at a hosted paper-and-pencil tiled rendering style game framework in C#
+An attempt at a hosted paper-and-pencil style tiled rendering game framework in C#
