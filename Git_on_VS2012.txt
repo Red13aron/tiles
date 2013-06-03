@@ -3,7 +3,7 @@ Setting up Git on Visual Studio 2012:
 	1.) Download the "Visual Studio Tools for Git" extension
 		Check active extensions: Tools -> "Extensions and Updates..."
 	2.) In VS2012:  View -> Team Explorer
-	3.) Click the "outlet" icon w/ hovertext "Connect to Team Projects"
+	3.) Click the "plug" icon w/ hovertext "Connect to Team Projects"
 	4.) Under "Local Git Repositories" select "Clone"
 	5.) Provide the source (Ex: "https://github.com/mblanchard/tiles.git") and the desired local repo path
 
